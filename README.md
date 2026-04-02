@@ -19,10 +19,10 @@ This agent allows users to ask natural language questions and receive data-drive
 - Python
 - OpenAI API
 - Pandas
-- Streamlit (if used)
+- Streamlit
 
 ## Demo
-(Add screenshots or video)
+
 
 ## Example Questions
 - "What are the top-performing products?"
