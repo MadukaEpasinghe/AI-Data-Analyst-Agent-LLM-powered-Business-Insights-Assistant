@@ -28,5 +28,9 @@ This agent allows users to ask natural language questions and receive data-drive
 - "What are the top-performing products?"
 - "Which month had the highest revenue?"
 
+## 🚀 Live Demo
+
+👉 Try it here: https://ai-data-analyst-agent-llm-powered-business-insights-assistant.streamlit.app/ 
+
 ## Results
 - Reduced analysis time from hours to seconds
