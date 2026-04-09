@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 from openai import OpenAI
-from dotenv import load_dotenv
 import re
 
 # Load API key
