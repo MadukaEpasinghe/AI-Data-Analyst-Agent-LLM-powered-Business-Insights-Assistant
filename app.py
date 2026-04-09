@@ -7,8 +7,7 @@ from dotenv import load_dotenv
 import re
 
 # Load API key
-load_dotenv()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 st.set_page_config(page_title="AIVA - AI Analyst", layout="wide")
 st.title("🧠 AIVA - AI Data Analyst (Universal)")
